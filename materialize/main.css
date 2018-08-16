@@ -1,0 +1,37 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+  background-color: #303030;
+}
+.heading {
+  background-color: #EB5757;
+  color: wheat;
+  margin: 0; 
+}
+.nav-wrapper{
+  margin: 0;
+  background-color: #EB5757;
+
+}
+.color{
+  color: wheat;
+}
+.card-content{
+  color: brown;
+}
+.card-title{
+  color: aqua;
+}
+/* .nav-wrapper:hover{
+  background-color: blue;
+} */
+#nav-mobile a{
+  background-color: rgb(11, 119, 83);
+}
+ul a{
+  background-color: rgb(133, 36, 108)
+}
+.hide-on-med-and-down #home-btn{
+  background-color: rgb(133, 36, 108)
+}
